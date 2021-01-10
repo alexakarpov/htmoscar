@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 django-oscar = "*"
+pycountry = "*"
+sorl-thumbnail = "*"
 
 [dev-packages]
 
